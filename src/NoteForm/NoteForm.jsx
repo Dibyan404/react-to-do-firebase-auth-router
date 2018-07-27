@@ -6,10 +6,10 @@ import {
   NavLink,
   HashRouter
 } from "react-router-dom";
-import { BrowserRouter } from 'react-router-dom';
+// import { BrowserRouter } from 'react-router-dom';
 //import { Button } from 'antd';
 import {Button} from 'antd';
-import Login from '../Login/Login'
+// import Login from '../Login/Login'
 
 class NoteForm extends Component{
 	constructor(props){

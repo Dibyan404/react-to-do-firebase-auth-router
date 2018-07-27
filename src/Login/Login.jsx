@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
+// import ReactDOM from 'react-dom';
 import { Form, Icon, Input, Button, Checkbox } from 'antd';
-import { DB_CONFIG } from '../Config/config';
-import firebase from 'firebase/app';
+// import { DB_CONFIG } from '../Config/config';
+// import firebase from 'firebase/app';
 import 'firebase/database';
 const FormItem = Form.Item;
 class Login extends React.Component {
